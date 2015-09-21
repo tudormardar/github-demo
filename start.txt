@@ -1,8 +1,2 @@
-<<<<<<< HEAD
-Test Git Quick start demo no 2
-master branch
-=======
-this is the first branch
 
-dar unde este master
->>>>>>> test-brand-1
+this is the first branch
